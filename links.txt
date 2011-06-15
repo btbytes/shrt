@@ -1,0 +1,2 @@
+#shortcut[TAB]URL
+shrt	http://github.com/btbytes/shrt
