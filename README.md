@@ -1,6 +1,6 @@
 # shrt
 
-## Stupid Simple URL Redirection 
+Stupid Simple URL Redirection 
 
 ### Why? 
 
