@@ -16,19 +16,15 @@ Stupid Simple URL Redirection
 
 ### How
 
-Step 1: 
-
- * Figure out a domain or a sub domain you want to install this. Eg: http://go.mydomain.com/
- * TODO
-
+ * put `index.php` and `links.txt` in the docroot of the domain.
+ * add rewrite rule (see nginx.conf for nginx example) to handle requests
+ * add new shortcuts to `links.txt` in `shortcut[TAB]url` format.
 
 ### Who 
 
-Pradeep Gowda <pradeep@btbytes.com>
+[Pradeep Gowda](http://twitter.com/btbytes)
 
-### Source etc.,
+### Source
 
  * [github/btbytes/shrt](http://github.com/btbytes/shrt)
-
-
 
